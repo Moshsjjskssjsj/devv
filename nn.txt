@@ -1,1 +1,1 @@
-https://user.watchcorridor.com/v2/stripe/payment-method
+
